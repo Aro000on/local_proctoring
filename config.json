@@ -1,0 +1,8 @@
+{
+  "test_url": "",
+  "allowlist": ["http://127.0.0.1:8080", "https://example.com", "http://example.com", "https://*.example.com", "http://*.example.com"],
+  "local_port": 8080,
+  "camera_index": 0,
+  "yolo_weights": "models/yolov8n.pt",
+  "report_path": "reports/proctoring_report.json"
+}
